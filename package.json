@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.81.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristineshipman/working-with-API-s.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristineshipman/working-with-API-s/issues"
+  },
+  "homepage": "https://github.com/cristineshipman/working-with-API-s#readme"
 }
